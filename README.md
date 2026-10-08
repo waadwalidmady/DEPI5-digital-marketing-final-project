@@ -1,5 +1,7 @@
 # DEPI5-digital-marketing-final-project
-A marketing campaign for a cafe themed for gamers and readers
+Project title: The next chapter cafe
+
+Brief: A marketing campaign for a cafe themed for gamers and readers
 
 Group code: YAT838B_DKH5_DRT1_S1_DEPI5
 
