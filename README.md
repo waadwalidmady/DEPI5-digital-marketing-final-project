@@ -5,6 +5,9 @@ Brief: A marketing campaign for a cafe themed for gamers and readers
 
 Group code: YAT838B_DKH5_DRT1_S1_DEPI5
 
+Technical instructor: 
+Basma Ezat
+
 Team members:
 Waad Walid Abdelkader Mady,
 Esraa Yousef Fawzy Alnaggar,
